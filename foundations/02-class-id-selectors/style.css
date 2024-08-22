@@ -1,0 +1,18 @@
+.unity {
+    background-color: #f08080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue36 {
+    color: blue;
+    font-size: 36px;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+#green-bold {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
